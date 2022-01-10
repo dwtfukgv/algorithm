@@ -12,7 +12,7 @@ public class LinkListPractice {
      */
     public static boolean hasCircle(LinkList head){
         if(head == null || head.next == null)  return false;
-
+        return true;
     }
 
 
